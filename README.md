@@ -2,7 +2,7 @@
 
 An interactive web-based visualization tool for Microsoft Entra ID Entitlement Management. Map and explore Access Packages, Catalogs, Resources, Assignment Policies, and their relationships through a live interactive graph.
 
-![Dark industrial UI with hexagonal node graph](./screenshot-placeholder.png)
+![Dark industrial UI with hexagonal node graph](./Screenshots/EntraIDAccessPackageVisualizer.png)
 
 ---
 
