@@ -1,0 +1,16 @@
+Entra Viz - Access Package Explorer
+Copyright (C) 2026 Marc Schramm
+All rights reserved under the GNU General Public License v3.
+
+This software is licensed under the GNU General Public License v3.
+See the LICENSE file for full license text.
+See https://www.gnu.org/licenses/gpl-3.0.txt for the complete GPL v3 license.
+
+Third-party libraries used in this project:
+- React (MIT License) - https://reactjs.org
+- Cytoscape.js (MIT License) - https://cytoscape.org
+- Zustand (MIT License) - https://github.com/pmndrs/zustand
+- Axios (MIT License) - https://axios-http.com
+- MSAL Browser (MIT License) - https://github.com/AzureAD/microsoft-authentication-library-for-js
+- TypeScript (Apache 2.0) - https://www.typescriptlang.org
+- Vite (MIT License) - https://vitejs.dev
